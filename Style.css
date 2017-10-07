@@ -1,12 +1,11 @@
 /* CHECKOUT FORM */
 
-/* CHECKOUT FORM */
-
 .selection-box {
     width: 270px;
     height: 175px;
+    margin: 20px 0px 20px 0px;
     padding: 50px;
-    outline: 2px solid #E3E4EA;
+    border: 2px solid #E3E4EA;
     border-radius: 6px;
     color: #5A637F;
     text-align: center;

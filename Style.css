@@ -1,12 +1,19 @@
 /* CHECKOUT FORM */
 
+/* CHECKOUT FORM */
+
 .selection-box {
     width: 270px;
     height: 175px;
     padding: 50px;
-    border: 2px solid #E3E4EA;
+    outline: 2px solid #E3E4EA;
     border-radius: 6px;
     color: #5A637F;
     text-align: center;
     font-style: oblique;
+}
+
+.selection-box:hover {
+    outline: 5px solid #76A7E1;
+    border-radius: 6px;
 }
